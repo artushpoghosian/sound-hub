@@ -1,4 +1,4 @@
-# Sound-Hub (Modular)
+# Sound-Hub
 
 Sound-Hub is a robust, multi-module audio streaming and music management platform designed similarly to Spotify. The system supports full CRUD operations for managing artists, bands, albums, and tracks, along with user-interactive features like custom playlist creation, social commenting, and reaction engagement. 
 
@@ -7,7 +7,7 @@ Originally built as an MVC application utilizing server-side templates, the proj
 ---
 
 ## 🚀 Key Features
-* **User Ecosystem:** Custom authentication with secure roles (Admin, Artist, User) and automated email notifications.
+* **User Ecosystem:** Custom authentication with secure roles (Admin, User) and automated email notifications.
 * **Music Discovery & Cataloging:** Comprehensive relational management linking Songs to specific Artists, Bands, and Genres.
 * **Social Engagement:** Real-time playlist curation, user profiles, interactive song/album comment threads, and reaction tracking.
 * **Cloud Audio Streaming:** Direct audio streaming powered by distributed object storage buckets (AWS S3).
